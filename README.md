@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukes-j&label=Profile%20views&color=0e75b6&style=flat" alt="dukes-j" /> </p>
 
-- 👨‍💻 I’m currently working on **Sports app and projection models**
+- 👨‍💻 I’m currently working on **dapps, Sports application and projection models**
 
-- 📊 I’m currently learning **blockchain, and eth technology**
+- 📊 I’m currently learning **blockchain, and eth technology and will post my projects here**
 
 - 👯 I’m looking to collaborate on **blockchain dapps / other soft dev app**
 
